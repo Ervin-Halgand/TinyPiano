@@ -1,4 +1,4 @@
-# testing_app
+# TinyPiano
 
 A new Flutter application.
 
